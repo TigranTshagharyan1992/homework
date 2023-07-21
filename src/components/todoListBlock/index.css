@@ -1,0 +1,36 @@
+.block{
+    border: 1px solid darkgoldenrod;
+    margin: 1% 33%;
+}
+.header{
+    margin: 2% 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header input{
+    width: 200px;
+    height: 35px;
+}
+.header button{
+    width: 120px;
+    height: 40px;
+}
+.title{
+    justify-content: center;
+    text-align: center;
+}
+.list{
+    border: 1px solid cornflowerblue;
+    text-align: center;
+    margin: 1% 2%;
+}
+.list .name{
+    padding-right: 10%;
+}
+.check{
+    background-color: darkcyan;
+}
+.hide{
+    opacity: 0.1;
+}
